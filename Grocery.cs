@@ -31,7 +31,7 @@ namespace Grocery_List
     {
       return my_milk.ToString() +
               my_eggs.ToString() +
-              my_bread.ToSTring()
+              my_bread.ToString()
     }
     ~Grocery() {}                              // Destructor
   }
