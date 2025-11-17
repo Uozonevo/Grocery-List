@@ -43,6 +43,6 @@ namespace Grocery_List
       return "\nMilk Quantity: " + quantity + 
               "Unit Price: $" + unit_price;
     }
-    ~Milk()                              // Destructor
+    ~Milk() {}                           // Destructor
   }
 }
