@@ -3,6 +3,6 @@ In this project named Grocery List, I am combining 3 console applications into o
 ## Program Files 📁
 - `Program.cs`
 - `Grocery.cs`
-- `Milk.cs'`
+- `Milk.cs`
 - `Bread.cs`
 - `Eggs.cs`
